@@ -5,7 +5,7 @@
   "version": "1.6.0",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fstorm": "latest",
     "hh-mm-ss": "^1.2.0",
     "jimp": "latest",
